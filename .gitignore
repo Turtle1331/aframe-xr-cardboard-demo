@@ -1,0 +1,4 @@
+autogen/rootCA.*
+autogen/server.*
+__pycache__
+.*.swp
